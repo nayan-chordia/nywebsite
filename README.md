@@ -1,3 +1,3 @@
 # nywebsite
 
-A e-commerce website frontend.
+An e-commerce website frontend.
